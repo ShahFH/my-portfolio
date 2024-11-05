@@ -1,5 +1,3 @@
-# Getting Started with Create React App
-
 # Portfolio 🔥Template for Developers
 
 ## Installation
